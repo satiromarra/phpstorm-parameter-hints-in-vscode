@@ -1,16 +1,21 @@
 # PHP Parameter Hint for Visual Studio Code
 
-[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/MrChetan.phpstorm-parameter-hints-in-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode)
+
+### Note
+
+_This repository is a fork of the original extension [mrchetan/phpstorm-parameter-hints-in-vscode](https://github.com/mrchetan/phpstorm-parameter-hints-in-vscode)_  
+
+[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/satiromarra.phpstorm-parameter-hints-in-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=satiromarra.phpstorm-parameter-hints-in-vscode)
 
 ![PhpStorm Parameter Hints in VScode Screenshot](Screenshot.png)
 
 Inserts parameter hints(type, name or both) into function calls to easily understand the parameter role.
-
+Compatible with php8
 
 # Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **mrchetan.phpstorm-parameter-hints-in-vscode**
+- Type **satiromarra.phpstorm-parameter-hints-in-vscode**
 - Install the Extension Pack.
 ---
 
@@ -67,7 +72,3 @@ You can change the default foreground and background colors in the `workbench.co
 | `phpParameterHint.hintForeground` | Specifies the foreground color for the hint |
 | `phpParameterHint.hintBackground` | Specifies the background color for the hint |
 
-
-**Enjoy Chetan's Extension Pack!**
-
-[Contact Mr Chetan](https://mrchetan.com/)
