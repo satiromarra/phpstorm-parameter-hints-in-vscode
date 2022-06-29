@@ -5,7 +5,7 @@
 
 _This repository is a fork of the original extension [mrchetan/phpstorm-parameter-hints-in-vscode](https://github.com/mrchetan/phpstorm-parameter-hints-in-vscode)_  
 
-[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/satiromarra.phpstorm-parameter-hints-in-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=satiromarra.phpstorm-parameter-hints-in-vscode)
+[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/satiromarra.phpstorm-parameter-hints-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=satiromarra.phpstorm-parameter-hints-for-vscode)
 
 ![PhpStorm Parameter Hints in VScode Screenshot](Screenshot.png)
 
@@ -15,7 +15,7 @@ Compatible with php8
 # Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **satiromarra.phpstorm-parameter-hints-in-vscode**
+- Type **satiromarra.phpstorm-parameter-hints-for-vscode**
 - Install the Extension Pack.
 ---
 
