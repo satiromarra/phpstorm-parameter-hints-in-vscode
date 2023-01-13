@@ -2,7 +2,7 @@
   "name": "phpstorm-parameter-hints-for-vscode",
   "displayName": "PhpStorm Parameter Hints for VScode",
   "description": "PhpStorm parameter hint for VS Code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "satiromarra",
   "author": "satiromarra",
   "engines": {

@@ -72,3 +72,9 @@ You can change the default foreground and background colors in the `workbench.co
 | `phpParameterHint.hintForeground` | Specifies the foreground color for the hint |
 | `phpParameterHint.hintBackground` | Specifies the background color for the hint |
 
+## Support and contribute [[&uarr;](#table-of-contents)]
+If you like the extension, you can support the project
+### Buy Me a Coffee
+[![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/satiromarra)
+### PayPal
+[![PayPal Me](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/satiromarra)
